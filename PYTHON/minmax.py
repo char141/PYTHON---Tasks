@@ -17,4 +17,7 @@ while True:
             smallest = nums
     count = count + 1
     total = total + nums
-print(count, total, largest, smallest)
+print("Count: ", count)
+print("Total: ", total)
+print("Largest: ", largest)
+print("Smallest: ", smallest)
